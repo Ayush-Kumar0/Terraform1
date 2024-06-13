@@ -1,1 +1,4 @@
-var=43
+variable "name" {
+  type: string
+  default: "Ayush"
+}
